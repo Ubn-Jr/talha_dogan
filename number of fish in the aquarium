@@ -1,0 +1,29 @@
+package main
+
+import "fmt"
+
+func main() {
+	//number of fish in the aquarium
+	fishCount := 10
+
+	//greater or equal
+	fmt.Println(fishCount >= 5)
+	//less than or equal
+	fmt.Println(fishCount <= 10)
+	//equal
+	fmt.Println(fishCount == 15)
+	//not equal
+	fmt.Println(fishCount != 20)
+
+	if fishCount < 10 {
+		//if you have less than ten fish this code will work
+		fmt.Println("You have a les than 10 fish, buy some more")
+	} else if fishCount == 10 {
+		//if you have a exactly ten fish this code will work
+		fmt.Println("You have a 10 fish")
+	} else if fishCount > 10 {
+		//if you have more than ten fish this code will work
+		fmt.Println("You have a more than 10 fish, you Don't need buy more fish")
+	}
+
+}
