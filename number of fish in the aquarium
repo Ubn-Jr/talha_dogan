@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+//TODO
+//uygulamaya fonksiyonlar ekleyelim 
+//değişken tanımlama ve fonksiyon işlemleri ilave edelim
+
 func main() {
 	//number of fish in the aquarium
 	fishCount := 10
