@@ -2,8 +2,6 @@ package main
 
 import "fmt"
 
-//TODO
-//değişken tanımlama ve fonksiyon işlemleri ilave edelim
 
 func fishCount() int {
 	fishCount := 10
