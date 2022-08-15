@@ -3,6 +3,9 @@ package main
 import "fmt"
 
 func fishCount() int {
+	//you can post the number of fish here
+	//           ||
+	//           \/
 	fishCount := 10
 	return fishCount
 }
