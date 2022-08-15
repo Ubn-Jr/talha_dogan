@@ -1,2 +1,2 @@
 
--a code helps you decide get a new fish or not
+-a code to help you decide whether or not to buy a new fish
